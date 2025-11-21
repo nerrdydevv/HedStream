@@ -218,4 +218,4 @@ This is a MVP template. Customize it for your specific hackathon needs!
 
 ---
 
-**Built with ❤️ for Hedera + Neuron DePIN Hackathon**
+**Built with ❤️ for Hedera Community**
